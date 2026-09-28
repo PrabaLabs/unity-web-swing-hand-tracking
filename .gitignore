@@ -1,0 +1,50 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE / solution files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity builds and packages
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# Packages Unity regenerates, and the MediaPipe plugin (install it from its Releases page)
+/Packages/packages-lock.json
+/Packages/com.github.homuler.mediapipe/
+
+# Third-party Asset Store content (not allowed to be redistributed)
+/Assets/LowPolyFPSLite/
+/Assets/LowPolyFPSLite.meta
+
+# Local tools
+.claude/
+.mcp.json
+
+# OS
+.DS_Store
+Thumbs.db
